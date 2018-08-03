@@ -1,0 +1,13 @@
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\bin\Debug\test.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\bin\Debug\test.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\bin\Debug\test.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.g.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\test\obj\Debug\test.pdb

@@ -1,0 +1,52 @@
+﻿<Window x:Class="LFU.SqlConsoleHelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SQLite Console Quick Help" 
+        Height="450" Width="260"
+        WindowStyle="ToolWindow"
+        Background="#94D500"
+        Closed="Window_Closed">
+
+    <Window.Resources>
+        <!-- don't promote this style to application level, app.xaml -->
+        <Style TargetType="TextBlock" x:Key="RefGuide">
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="FontWeight" Value="Normal"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="DockPanel.Dock" Value="Top"/>
+            <Setter Property="Margin" Value="0,10,0,0"/>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel>
+        
+        <!-- Quick Help for this window, SQLite suggestions etc.... -->        
+        <DockPanel DockPanel.Dock="Top" >
+
+            <!-- window title (again) and link to web documentation for SQLite -->
+            <DockPanel DockPanel.Dock="Top" Background="#545759" >
+                <TextBlock DockPanel.Dock="Left" FontWeight="Bold" FontSize="14" Margin="10,10,10,10" Foreground="White">SQLite Console Quick Help</TextBlock>
+                <Button x:Name="btnWeb" DockPanel.Dock="Right" 
+                        Width="40" HorizontalAlignment="Right" Margin="0,0,10,0"
+                        ToolTip="Go to the SQLite on-line documentation at www.sqlite.org\lang.html"
+                        Click="btnWeb_Click"
+                        Content="Web"/>
+            </DockPanel>
+
+            <!-- helpful suggestions -->
+            <ScrollViewer HorizontalAlignment="Left" DockPanel.Dock="Top" Margin="10,0,10,10">
+                <DockPanel>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">F5 will execute the command</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">Execute only one statement at a time. Do not use semicolons.</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">SQLite string literals are case sensitive</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">string concatenation is performed with double-pipe, i.e., ||</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">Ctrl-Up and Ctrl-Down are used to browse your command history</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">Ctrl-Left and Ctrl-Right are used to move your cursor to previous and next words, respectively</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">try the command "tables" to see a list of tables in the database</TextBlock>
+                    <TextBlock Style="{StaticResource ResourceKey=RefGuide}">you may not drop tables at this time</TextBlock>
+                </DockPanel>
+            </ScrollViewer>
+        </DockPanel>
+
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="LFU.Db.UpdateFieldPairControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="425"
+             Height="Auto">
+
+    <StackPanel Orientation="Horizontal" Margin="0,0,0,5" Background="Azure" >
+        <TextBlock x:Name="tblLoadfileField" MinWidth="200" Margin="10,0,10,0" TextWrapping="NoWrap" VerticalAlignment="Center" ></TextBlock>
+        <TextBlock x:Name="tblCaseField" MinWidth="200" Margin="0,0,10,0" TextWrapping="NoWrap" VerticalAlignment="Center" ></TextBlock>
+    </StackPanel>
+    
+</UserControl>

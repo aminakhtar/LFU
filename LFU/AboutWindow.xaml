@@ -1,0 +1,101 @@
+﻿<Window x:Class="LFU.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" 
+        WindowStyle="ToolWindow"
+        Height="300" Width="500"
+        Background="#94D500"
+        Icon="Aha-Soft-Agriculture-Cow-history.ico"
+        ResizeMode="NoResize"
+        >
+
+    <Window.Resources>
+
+
+
+        <!-- Tooltip StackPanel -->
+        <Style TargetType="StackPanel" x:Key="Tooltip">
+            <Setter Property="MaxWidth" Value="400"></Setter>
+            <Setter Property="Orientation" Value="Vertical"></Setter>
+        </Style>
+
+        <!-- Tooltip Header -->
+        <Style TargetType="TextBlock" x:Key="TooltipHeader">
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="FontStyle" Value="Normal"></Setter>
+            <Setter Property="Margin" Value="0,0,0,5"></Setter>
+        </Style>
+
+        <!-- Tooltip Body -->
+        <Style TargetType="TextBlock" x:Key="TooltipBody">
+            <Setter Property="FontWeight" Value="Normal"></Setter>
+            <Setter Property="FontStyle" Value="Normal"></Setter>
+            <Setter Property="Margin" Value="0,0,0,5"></Setter>
+            <Setter Property="TextWrapping" Value="Wrap"></Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!-- top half -->
+        <DockPanel Grid.Row="0" Grid.Column="0" Background="#545759">
+
+            <!-- title on left -->
+            <StackPanel DockPanel.Dock="Left" >
+                <!-- Title -->
+                <TextBlock x:Name="tblTitle" FontSize="20" Foreground="White" FontWeight="Bold" Margin="10,10,10,0">Assembly title</TextBlock>
+                <!-- Description -->
+                <TextBlock x:Name="tblDescription" Foreground="White" Margin="10,0,10,10">Assembly description</TextBlock>
+            </StackPanel>
+
+            <!-- apple on right -->
+            <StackPanel DockPanel.Dock="Right">
+                <Image x:Name="imgFruit" Source="Aha-Soft-Agriculture-Cow-history.ico" Width="32" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,10,10,0" 
+                       ToolTip="Cow Books" ToolTipService.InitialShowDelay="5000" />
+            </StackPanel>
+
+        </DockPanel>
+
+        <!-- bottom half -->
+        <DockPanel Grid.Row="1" Grid.Column="0"   Margin="0,0,0,20"  >
+
+            <!-- assembly information on left -->
+            <StackPanel Orientation="Vertical" DockPanel.Dock="Left" VerticalAlignment="Bottom" Margin="10,0,0,0">
+
+                <!-- Dbev version -->
+                <TextBlock x:Name="tblVersion" Margin="0,10,0,0">assembly version</TextBlock>
+                <!-- copyright -->
+                <TextBlock x:Name="tblCopyright" Margin="0,10,0,0">assembly copyright</TextBlock>
+                <!-- Pdc.Dts version -->
+                <TextBlock x:Name="tblPdcLoadfilesVersion" Margin="0,10,0,0" ToolTip="Loadfiles library version">Pdc.Loadfiles version</TextBlock>
+                <!-- bugs and questions email, this value set in app.config -->
+                <TextBlock x:Name="tblQuestionsEmailAddress" 
+                           Margin="0,10,0,0" FontStyle="Italic" Visibility="Visible" ToolTip="Support and suggestions"
+                           MaxWidth="300" TextWrapping="Wrap">
+                    support email address
+                </TextBlock>
+
+            </StackPanel>
+
+            <!-- buttons on right -->
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,10,0">
+                <Button x:Name="btnConfig" Click="btnConfig_Click" ToolTip="Open the config file" Margin="0,0,10,0">Config</Button>
+                <Button x:Name="btnHelp" Click="btnHelp_Click" ToolTip="Open the User Manual" IsEnabled="False" >Help</Button>
+            </StackPanel>
+
+        </DockPanel>
+
+    </Grid>
+
+</Window>

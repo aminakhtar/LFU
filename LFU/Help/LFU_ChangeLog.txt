@@ -1,0 +1,72 @@
+﻿Loadfile Utility 2015 Changelog
+
+2.4.0.3 2015-10-02
+- Testing
+
+2.4.0.2 2015-09-28
+- save new loadfile from ad hoc select
+
+2.4.0.1 2015-09-25
+- fixed bug with WHERE clause of import\export
+- status messages sent from main window ancestors are sent to main window status bar
+
+2.4.0.0 2015-09-18
+- implement ad hoc SELECT view
+- implement export\overlay to LAW database
+- improvements to SQL Console
+- fixed bug that caused SQL console to crash when it was opened (re-opened) the second time after being closed
+
+2.3.0.7 2015-09-15
+- fixed bug that kept combobox from updating with column names after drop or add column
+
+2.3.0.6 2015-09-10
+- consolidate styles in application.resources
+- minor visual changes
+- add column
+- remove column
+- changed name of "Search" to "Filter" to better reflect its nature
+
+2.3.0.5 2015-09-04
+- fixed bug that caused header fields to be saved to the file in incorrect order when columns were rearranged in LFU
+- added conditional features to the import from platform capabilities. 
+- this build includes some AQC controls that are not yet implemented.
+
+2.3.0.4 2015-08-03
+- Import from LAW imports multiple fields in one job
+- Null fields are handled so that a blank value is imported (as opposed to the string "Null")
+- fixed a bug that caused the name of the table to display incorrectly in the tab header
+
+2.3.0.1 2015-07-27
+- reimplement save
+- connect to database and import from LAW
+
+2.3.0.0 2015-07-15
+- refactor table views so now any table has it's own paging controls etc
+- About window
+- loadfile filename in loadfile tab and table names in the table tabs
+
+2.2.0.4 2015-07-13
+- autocomplete on sqlite console
+
+2.2.0.3 2015-07-10
+- closable tabs
+
+2.2.0.2 2015-07-09
+- fixed bad table name on tab header
+- Maintenenace window is now shown with ShowDialog
+
+2.2.0.1 2015-07-08
+- rudimentary text encoding autodetect
+- fixed missing column names in the cmboFunctionFields combobox on the LoadfilePage
+- visual design changes, smaller controls
+
+2.2.0.0 2015-06-29
+- multiple loadfiles open in one session
+- error rows tab
+- maintenance window
+
+2.1.0.0 2015-06-26
+- first stable release
+
+2.0.0.0 2015-06-22
+- first beta release

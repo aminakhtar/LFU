@@ -1,0 +1,68 @@
+﻿<Window x:Class="LFU.MaintWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MaintWindow" Height="300" Width="700"
+        WindowStyle="ToolWindow"
+        Topmost="True"
+        Background="#545759"
+        >
+
+    <Window.Resources>
+        <!-- datagrid -->
+        <Style TargetType="DataGrid">
+            <Setter Property="ColumnWidth" Value="SizeToHeader"/>
+            <Setter Property="CanUserAddRows" Value="False"/>
+            <Setter Property="CanUserDeleteRows" Value="False"/>
+            <Setter Property="IsReadOnly" Value="True"/>
+            <Setter Property="Margin" Value="0,10,0,0"/>
+            <Setter Property="GridLinesVisibility" Value="None"/>
+            <Setter Property="FontFamily" Value="Consolas, Courier New"/>
+        </Style>
+    </Window.Resources>
+      
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TabControl x:Name="tabcontrolMain" Grid.Row="0" Grid.Column="0" Margin="0">
+            
+            <!-- backend SQLite databases -->
+            <TabItem Margin="0" Header="Backend Databases">
+                <DockPanel Background="#648B1A">
+                    <WrapPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="10,10,10,0" HorizontalAlignment="Right" >
+                        <Button x:Name="btnScan" Click="btnScan_Click" Margin="0,0,10,0">Scan</Button>
+                        <Button x:Name="btnDelete" Click="btnDelete_Click" >Delete</Button>
+                    </WrapPanel>
+
+                    <DataGrid 
+                        x:Name="dgDatabaseFiles" 
+                        DockPanel.Dock="Bottom"
+                        AlternatingRowBackground="#94D500"/>
+                </DockPanel>
+            </TabItem>
+            
+            <!-- database connections -->
+            <TabItem Margin="0" Header="Platform Connections">
+                <DockPanel Background="Azure">
+                    <DataGrid
+                        x:Name="dgPlatformDatabaseConnections" 
+                        DockPanel.Dock="Bottom"
+                        AlternatingRowBackground="NavajoWhite"/>
+                </DockPanel>
+            </TabItem>
+            
+        </TabControl>
+       
+        <!-- status bar -->
+        <DockPanel Grid.Row="2" Grid.Column="0" Background="#545759" Height="40">
+            <TextBlock x:Name="tblStatus" DockPanel.Dock="Bottom" Foreground="White" Margin="10,10,10,10"></TextBlock>
+        </DockPanel>
+        
+    </Grid>
+</Window>

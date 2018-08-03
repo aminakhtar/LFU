@@ -1,0 +1,94 @@
+﻿<Window x:Class="LFU.ExportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Export Loadfile" 
+        Height="400" Width="700"
+        Icon="Aha-Soft-Agriculture-Cow-history.ico"
+        ShowInTaskbar="False"
+        >
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!-- output path -->
+        <DockPanel Grid.Row="0" Grid.Column="0" Background="#648B1A">
+            <WrapPanel Orientation="Horizontal" Margin="10,10,10,20" VerticalAlignment="Top">
+                <TextBlock Margin="0,0,10,0" VerticalAlignment="Center">Filepath</TextBlock>
+                <TextBox x:Name="tbFilepath"  Margin="0,0,10,0" VerticalAlignment="Center" MinWidth="400" MaxWidth="900" TextWrapping="Wrap" IsReadOnly="True" TextChanged="tbFilepath_TextChanged"/>
+                <Button x:Name="btnBrowse" VerticalAlignment="Center" Width="25" Click="btnBrowse_Click">...</Button>
+            </WrapPanel>
+        </DockPanel>
+
+        <!-- loadfile options -->
+        <DockPanel Grid.Row="1" Grid.Column="0" Background="#94D500">
+
+            <!-- loadfile type -->
+            <WrapPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="10,10,10,10">
+                <TextBlock Width="110" VerticalAlignment="Center">Loadfile Type</TextBlock>
+                <ComboBox x:Name="cmboLoadfileType" Width="200" VerticalAlignment="Center" IsEnabled="False"></ComboBox>
+            </WrapPanel>
+
+            <!-- Encoding of the output file -->
+            <WrapPanel x:Name="wpanelOutputEncoding" Orientation="Horizontal" DockPanel.Dock="Top" Margin="10,10,10,10" Visibility="Visible">
+                <TextBlock  Width="110" VerticalAlignment="Center">Output Encoding</TextBlock>
+                <ComboBox x:Name="cmboEncodings"  Width="200" Margin="0,0,20,0" VerticalAlignment="Center" SelectionChanged="cmboEncodings_SelectionChanged" ></ComboBox>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock>(</TextBlock>
+                    <TextBlock x:Name="tblLoadfileCurrentEncoding"></TextBlock>
+                    <TextBlock>)</TextBlock>
+                </StackPanel>
+            </WrapPanel>
+
+            <!-- Delimiters -->
+            <WrapPanel x:Name="wpanelDelimiters" Orientation="Horizontal" Visibility="Visible" DockPanel.Dock="Top" Margin="10,10,10,10">
+
+                <!-- section title -->
+                <TextBlock  Margin="0,5,10,5" Width="110" VerticalAlignment="Center">Delimiters</TextBlock>
+
+                <!-- Field Delimiter -->
+                <TextBlock Margin="0,5,10,5" VerticalAlignment="Center">Field</TextBlock>
+                <ComboBox x:Name="cmboDelimField" Margin="0,5,10,5" FontFamily="Courier New" VerticalAlignment="Center" SelectionChanged="cmboDelimField_SelectionChanged"/>
+
+                <!-- Text Delimiter -->
+                <TextBlock Margin="0,5,10,5" VerticalAlignment="Center">Text</TextBlock>
+                <ComboBox x:Name="cmboDelimText" Margin="0,5,10,5" FontFamily="Courier New" VerticalAlignment="Center" SelectionChanged="cmboDelimText_SelectionChanged"/>
+
+                <!-- Linebreak substitution -->
+                <TextBlock Margin="0,5,10,5" VerticalAlignment="Center">Line</TextBlock>
+                <ComboBox x:Name="cmboDelimLineBreakSub" Margin="0,5,10,5" FontFamily="Courier New" VerticalAlignment="Center" SelectionChanged="cmboDelimLineBreakSub_SelectionChanged"/>
+
+            </WrapPanel>
+
+            <!-- IncludeHeaders -->
+            <WrapPanel x:Name="wpanelIncludeHeaders" Orientation="Horizontal" Visibility="Visible" DockPanel.Dock="Top" Margin="10,10,10,10">
+                <TextBlock  Width="110">Include Headers?</TextBlock>
+                <CheckBox x:Name="chkIncludeHeaders" VerticalAlignment="Center" Checked="chkIncludeHeaders_Checked" Unchecked="chkIncludeHeaders_Unchecked"></CheckBox>
+            </WrapPanel>
+
+        </DockPanel>
+
+        <!-- Save or Cancel buttons -->
+        <DockPanel Grid.Row="2" Grid.Column="0" Background="#545759">
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Left">
+                <TextBlock x:Name="tblStatus" Margin="10,10,10,10" Foreground="White" VerticalAlignment="Center"></TextBlock>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,10,10,10" DockPanel.Dock="Right">
+                <Button x:Name="btnCancel" Margin="0,0,10,0" Click="btnCancel_Click">Cancel</Button>
+                <Button x:Name="btnSave" Click="btnSave_Click" VerticalAlignment="Bottom">Save</Button>
+            </StackPanel>
+
+        </DockPanel>
+
+    </Grid>
+
+</Window>

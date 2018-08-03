@@ -1,0 +1,10 @@
+LFU Rquirments 06-07-2016
+
+- Field list as is in the .dat file.
+- Time and Date sent combine
+- Date formatting
+- Merge
+- Reordering list based on the new list of field in other file. Match the name of the columns as well.
+- Color to Navigant
+- Update to blank scrub button
+ 

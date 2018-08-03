@@ -1,0 +1,119 @@
+﻿<Window x:Class="LFU.OpenLoadfileDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Open Loadfile" 
+        Height="500" Width="900"
+        AllowDrop="True"
+        Icon="Aha-Soft-Agriculture-Cow-history.ico"
+        ShowInTaskbar="False"
+        >
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!-- File section -->
+        <DockPanel Grid.Row="0" Grid.Column="0" Background="#545759">
+            <WrapPanel Orientation="Horizontal" Margin="10,0,10,20" VerticalAlignment="Top">
+                <DockPanel>
+                    <TextBlock Margin="0,10,10,0" Width="80" VerticalAlignment="Center" Foreground="White">Filepath</TextBlock>
+                    <TextBox x:Name="tbFilepath"  Margin="0,10,10,0"  MinWidth="400" HorizontalAlignment="Stretch" Height="Auto" TextChanged="tbFilepath_TextChanged" DockPanel.Dock="Left"></TextBox>
+
+                </DockPanel>
+                <Button x:Name="btnBrowse" VerticalAlignment="Center" Margin="0,10,10,0"  Click="btnBrowse_Click" DockPanel.Dock="Right">Browse</Button>
+            </WrapPanel>
+        </DockPanel>
+
+
+        <!-- Options section -->
+        <DockPanel Grid.Row="1" Grid.Column="0" Background="#94D500">
+
+            <!-- Preview and Field Select -->
+            <DockPanel x:Name="dockPreviewButtons" DockPanel.Dock="Top">
+                <DockPanel>
+                    <!-- show the apparent loadfile type -->
+                    <TextBlock x:Name="tblLoadfileType" Margin="10,10,10,10" FontWeight="Bold" FontSize="16" Foreground="CadetBlue" DockPanel.Dock="Left"></TextBlock>
+                </DockPanel>
+                <DockPanel DockPanel.Dock="Right" HorizontalAlignment="Right">
+                    <Button x:Name="btnPreview"  Margin="10,10,10,10" Click="btnPreview_Click">Preview</Button>
+                    <Button x:Name="btnSelectFields"  Margin="0,10,10,10" Click="btnSelectFields_Click">Select Fields</Button>
+                </DockPanel>
+            </DockPanel>
+
+            <!-- options -->
+            <ScrollViewer DockPanel.Dock="Bottom">
+                <StackPanel Margin="10,10,10,20" Orientation="Vertical" >
+
+
+                <!-- encoding -->
+                <StackPanel x:Name="stackEncoding" Orientation="Horizontal" Visibility="Collapsed">
+                    <TextBlock Margin="0,5,10,5" Width="80">Encoding</TextBlock>
+                    <ComboBox x:Name="cmboEncodings" Margin="0,5,10,10" IsEnabled="false" SelectionChanged="cmboEncodings_SelectionChanged" ></ComboBox>
+                    <CheckBox x:Name="chkAutoDetectEncoding" Margin="10,10,10,10" IsChecked="True" IsEnabled="True" VerticalAlignment="Center" Visibility="Visible" 
+                              ToolTip="Uncheck if you need to manually select encoding" Checked="chkAutoDetectEncoding_Checked" Unchecked="chkAutoDetectEncoding_Unchecked">Autodetect Encoding</CheckBox>
+                    </StackPanel>
+
+                <!-- headers -->
+                <StackPanel x:Name="stackFieldPreview" Orientation="Horizontal"  Visibility="Collapsed" ToolTip="Comma-separated list of field names">
+                    <TextBlock Margin="0,5,10,5" Width="80">Field Names</TextBlock>
+                    <TextBlock x:Name="tblFieldNames"  Margin="0,5,10,10" TextWrapping="Wrap" Height="Auto" MaxWidth="800"></TextBlock>
+                </StackPanel>
+
+                <!-- Delimiters -->
+                <WrapPanel x:Name="wrapDelimiters" Orientation="Horizontal" Visibility="Collapsed">
+                    <TextBlock Margin="0,5,10,5" Width="80" HorizontalAlignment="Left">Delimiters</TextBlock>
+
+                    <!-- Field Delimiter -->
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Margin="0,5,10,0">Field</TextBlock>
+                        <ComboBox x:Name="cmboDelimField"  Margin="0,5,10,5" FontFamily="Courier New" SelectionChanged="cmboDelimField_SelectionChanged" />
+                    </StackPanel>
+
+                    <!-- Text Delimiter -->
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Margin="0,5,10,0">Text</TextBlock>
+                        <ComboBox x:Name="cmboDelimText"  Margin="0,5,10,5" FontFamily="Courier New" SelectionChanged="cmboDelimText_SelectionChanged" />
+                    </StackPanel>
+
+                    <!-- Linebreak substitution -->
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Margin="0,5,10,0">Line</TextBlock>
+                        <ComboBox x:Name="cmboDelimLineBreakSub"  Margin="0,5,10,10" FontFamily="Courier New" SelectionChanged="cmboDelimLineBreakSub_SelectionChanged"/>
+                    </StackPanel>
+                </WrapPanel>
+
+                <!-- HasHeaders -->
+                <StackPanel x:Name="stackHasHeaders" Orientation="Horizontal" Visibility="Collapsed" Margin="0,10,0,0">
+                    <TextBlock Margin="0,0,10,0" Width="80">Has Headers?</TextBlock>
+                    <CheckBox x:Name="chkHasHeaders" Checked="chkHasHeaders_Checked" Unchecked="chkHasHeaders_Unchecked"></CheckBox>
+                </StackPanel>
+
+            </StackPanel>
+            </ScrollViewer>
+        </DockPanel>
+
+
+        <!-- Load or Cancel buttons -->
+        <DockPanel Grid.Row="2" Grid.Column="0" Background="#545759">
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Left">
+                <TextBlock x:Name="tblStatus" Margin="10,10,10,10" Foreground="White" VerticalAlignment="Top"></TextBlock>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,10,10,10" DockPanel.Dock="Right">
+                <Button x:Name="btnCancel" Margin="0,0,10,0" Click="btnCancel_Click">Cancel</Button>
+                <Button x:Name="btnLoad" Click="btnLoad_Click">Load</Button>
+            </StackPanel>
+
+        </DockPanel>
+
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,15 @@
+﻿Loadfile Utility To Do List
+
+- DONE drop field completely if it was loaded
+- automatically refresh view when SQL statements execute in the SQL console
+- saving a NULL field causes SQLiteDataReader to crash (not checking for DbNull)
+- DONE import from platform with conditions (WHERE clause)
+- DONE column headers order is wrong when saving after rearrange headers
+- DONE Status message events need to be passed to parent
+- DONE Export data to processing platform database
+- implement clipboard?
+- ad hoc select tab
+    - needs a loadfile object
+- rename columns
+- typed data in backend 
+

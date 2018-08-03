@@ -1,0 +1,14 @@
+﻿Loadfile Utility 2015 
+- version 2.2.0.3 as of 2015-07-13
+
+Purpose
+- read and edit loadfiles
+
+Features
+- grid view
+- SQL database backend
+
+Operation
+
+
+

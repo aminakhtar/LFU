@@ -1,0 +1,655 @@
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.exe.config
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Data.SQLite.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\WPFToolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Data.SQLite.xml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\MainWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\App.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\MainWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\App.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU_MarkupCompile.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.g.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.Properties.Resources.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\OpenLoadfileDialog.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\PreviewWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\PreviewWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\ExportWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\ExportWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SelectHeaderWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\Pdc.Loadfiles.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SqlConsoleWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\bin\Debug\LFU_InnoSetupScript.iss
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SqlConsoleWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\SqlConsoleWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility\LFU\obj\Debug\LFU_Content.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.exe.config
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU_InnoSetupScript.iss
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Data.SQLite.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\WPFToolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Data.SQLite.xml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\ExportWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MainWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\OpenLoadfileDialog.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\PreviewWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SelectHeaderWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SqlConsoleWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\App.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\ExportWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MainWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\PreviewWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SelectHeaderWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SqlConsoleWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\App.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU_MarkupCompile.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.g.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.Properties.Resources.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Views\LoadfilePage.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Views\LoadfilePage.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MaintWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MaintWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\Pdc.Loadfiles.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MaintWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MaintWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.2\LFU\obj\Debug\LFU_Content.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.exe.config
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\Db\SqliteKeywords.txt
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU_InnoSetupScript.iss
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.exe
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.pdb
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Data.SQLite.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\WPFToolkit.dll
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Data.SQLite.xml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\AboutWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\ImportFromLawWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\ExportWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MaintWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MainWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\OpenLoadfileDialog.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\PreviewWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SelectHeaderWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SqlConsoleWindow.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\LoadfilePage.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\TablePage.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\App.baml
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\AboutWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\ImportFromLawWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\ExportWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MaintWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MainWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\PreviewWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SelectHeaderWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SqlConsoleWindow.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\LoadfilePage.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\TablePage.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\App.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU_Content.g.cs
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU_MarkupCompile.cache
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.g.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.Properties.Resources.resources
+E:\Users\Dan\My Documents\Visual Studio 2013\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\Pdc.Loadfiles.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\Pdc.Plugins.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\AboutWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Aqc\AqcUi.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\ImportFromLawWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MaintenanceWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\TablePage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\AboutWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Aqc\AqcUi.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\ImportFromLawWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MaintenanceWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\Views\TablePage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\UserInputWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\LFU\obj\Debug\UserInputWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\Pdc.Loadfiles.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\Pdc.Plugins.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\Dan-LFU\LoadfileUtility_2.4\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\AboutWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Aqc\AqcUi.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\MaintenanceWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\UserInputWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\Views\TablePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.4\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+Z:\LFU\bin\Debug\LFU.exe.config
+Z:\LFU\obj\Debug\LFU.exe
+Z:\LFU\obj\Debug\LFU.pdb
+Z:\LFU\bin\Debug\Db\SqliteKeywords.txt
+Z:\LFU\bin\Debug\LFU_InnoSetupScript.iss
+Z:\LFU\bin\Debug\LFU.exe
+Z:\LFU\bin\Debug\LFU.pdb
+Z:\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+Z:\LFU\bin\Debug\System.Data.SQLite.dll
+Z:\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+Z:\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+Z:\LFU\bin\Debug\WPFToolkit.dll
+Z:\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+Z:\LFU\bin\Debug\System.Data.SQLite.xml
+Z:\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+Z:\LFU\obj\Debug\AboutWindow.baml
+Z:\LFU\obj\Debug\Aqc\AqcUi.baml
+Z:\LFU\obj\Debug\Db\LawImportExportWindow.baml
+Z:\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+Z:\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+Z:\LFU\obj\Debug\ExportWindow.baml
+Z:\LFU\obj\Debug\MaintenanceWindow.baml
+Z:\LFU\obj\Debug\MainWindow.baml
+Z:\LFU\obj\Debug\OpenLoadfileDialog.baml
+Z:\LFU\obj\Debug\PreviewWindow.baml
+Z:\LFU\obj\Debug\SelectHeaderWindow.baml
+Z:\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+Z:\LFU\obj\Debug\SqlConsoleWindow.baml
+Z:\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+Z:\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+Z:\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+Z:\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+Z:\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+Z:\LFU\obj\Debug\UserInputWindow.baml
+Z:\LFU\obj\Debug\Views\AdHocSelectPage.baml
+Z:\LFU\obj\Debug\Views\LoadfilePage.baml
+Z:\LFU\obj\Debug\Views\TablePage.baml
+Z:\LFU\obj\Debug\App.baml
+Z:\LFU\obj\Debug\AboutWindow.g.cs
+Z:\LFU\obj\Debug\Aqc\AqcUi.g.cs
+Z:\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+Z:\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+Z:\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+Z:\LFU\obj\Debug\ExportWindow.g.cs
+Z:\LFU\obj\Debug\MaintenanceWindow.g.cs
+Z:\LFU\obj\Debug\MainWindow.g.cs
+Z:\LFU\obj\Debug\MergeWindow.g.cs
+Z:\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+Z:\LFU\obj\Debug\PreviewWindow.g.cs
+Z:\LFU\obj\Debug\SelectHeaderWindow.g.cs
+Z:\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+Z:\LFU\obj\Debug\SqlConsoleWindow.g.cs
+Z:\LFU\obj\Debug\UserInputWindow.g.cs
+Z:\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+Z:\LFU\obj\Debug\Views\LoadfilePage.g.cs
+Z:\LFU\obj\Debug\Views\TablePage.g.cs
+Z:\LFU\obj\Debug\App.g.cs
+Z:\LFU\obj\Debug\LFU_Content.g.cs
+Z:\LFU\obj\Debug\LFU_MarkupCompile.cache
+Z:\LFU\obj\Debug\LFU_MarkupCompile.lref
+Z:\LFU\obj\Debug\MergeWindow.baml
+Z:\LFU\obj\Debug\LFU.g.resources
+Z:\LFU\obj\Debug\LFU.Properties.Resources.resources
+Z:\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.exe.config
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\Db\SqliteKeywords.txt
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU_InnoSetupScript.iss
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Data.SQLite.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\WPFToolkit.dll
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Data.SQLite.xml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\AboutWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Aqc\AqcUi.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\LawImportExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\ExportWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MaintenanceWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MainWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\OpenLoadfileDialog.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\PreviewWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SelectHeaderWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\UserInputWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\AdHocSelectPage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\LoadfilePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\TablePage.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\App.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\AboutWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Aqc\AqcUi.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\ExportWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MaintenanceWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MainWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MergeWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\PreviewWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SelectHeaderWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\UserInputWindow.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\LoadfilePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\TablePage.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\App.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_Content.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_MarkupCompile.cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_MarkupCompile.lref
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MergeWindow.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.g.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.Properties.Resources.resources
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.exe
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.pdb
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\ConvertDateTime.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\ConvertDateTime.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SortField\windSortingFields.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SortField\windSortingFields.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\WindError.g.cs
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\WindError.baml
+\\islncidifls01\LawGeneral\USERS\AAKHTAR\Dev\Projects\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.exe.config
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.exe
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.pdb
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\Db\SqliteKeywords.txt
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU_InnoSetupScript.iss
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.exe
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\LFU.pdb
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Data.SQLite.dll
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\WPFToolkit.dll
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\bin\Debug\System.Data.SQLite.xml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.csprojResolveAssemblyReference.cache
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\AboutWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Aqc\AqcUi.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\LawImportExportWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\PlatformConnectWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\UpdateFieldPairControl.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\ExportWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MaintenanceWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MainWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\OpenLoadfileDialog.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\PreviewWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SelectHeaderWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SortField\windSortingFields.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleHelpWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\UserInputWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\AdHocSelectPage.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\LoadfilePage.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\TablePage.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\App.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\AboutWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Aqc\AqcUi.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\ConvertDateTime.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\WindError.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\LawImportExportWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\PlatformConnectWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Db\UpdateFieldPairControl.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\ExportWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MaintenanceWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MainWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MergeWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\OpenLoadfileDialog.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\PreviewWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SelectHeaderWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SortField\windSortingFields.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleHelpWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\SqlConsoleWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\UserInputWindow.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\AdHocSelectPage.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\LoadfilePage.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\Views\TablePage.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\App.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_Content.g.cs
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_MarkupCompile.cache
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU_MarkupCompile.lref
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\ConvertDateTime.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\DateTimeFormatting\WindError.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\MergeWindow.baml
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.g.resources
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.Properties.Resources.resources
+C:\USB\Projects-12-20-16\LoadfileUtility_2016\06-07-16\LoadfileUtility_2.5\LFU\obj\Debug\LFU.csproj.GenerateResource.Cache

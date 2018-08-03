@@ -1,0 +1,43 @@
+﻿<Window x:Class="LFU.MergeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LFU"
+        mc:Ignorable="d"
+        Title="Merge Window" 
+        Height="230" 
+        Width="300"
+        WindowStartupLocation="CenterOwner"
+        Background="#94D500" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Label Content="First Column:" Grid.Row="0" Grid.Column="0" Margin="5"></Label>
+        <ComboBox x:Name="cmbFirst"  Grid.Row="0" Grid.Column="1" Margin="5" SelectedIndex="0"></ComboBox>
+
+        <Label Content="Between two columns:"  Grid.Row="1" Grid.Column="0" Margin="5"></Label>
+        <TextBox x:Name="txtBetween"  Grid.Row="1" Grid.Column="1" Margin="5"></TextBox>
+
+        <Label Content="Second Column:"  Grid.Row="2" Grid.Column="0" Margin="5"></Label>
+        <ComboBox x:Name="cmbSecond"  Grid.Row="2" Grid.Column="1" Margin="5" SelectedIndex="0"></ComboBox>
+
+        <Label Content="Result Column:"  Grid.Row="3" Grid.Column="0" Margin="5"></Label>
+        <ComboBox x:Name="cmbResult"  Grid.Row="3" Grid.Column="1" Margin="5" SelectedIndex="0"></ComboBox>
+
+        <StackPanel Grid.Row="4" Margin="5" Grid.ColumnSpan="2">
+        <Button x:Name="btnMerge" Content="Merge"  Background="LightGray" Click="btnMerge_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

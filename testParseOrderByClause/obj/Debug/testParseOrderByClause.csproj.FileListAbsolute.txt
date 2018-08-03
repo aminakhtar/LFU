@@ -1,0 +1,6 @@
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\bin\Debug\testParseOrderByClause.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\bin\Debug\testParseOrderByClause.exe.config
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\obj\Debug\testParseOrderByClause.csprojResolveAssemblyReference.cache
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\obj\Debug\testParseOrderByClause.exe
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\obj\Debug\testParseOrderByClause.pdb
+\\islncidifls01\LawGeneral\USERS\DSERKLAND\Dev\Dan\Projects\LoadfileUtility_2015\LoadfileUtility_2.3\testParseOrderByClause\bin\Debug\testParseOrderByClause.pdb

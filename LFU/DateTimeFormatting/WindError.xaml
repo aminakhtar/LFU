@@ -1,0 +1,30 @@
+﻿<Window x:Class="LFU.DateTimeFormatting.WindError"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LFU.DateTimeFormatting"
+        mc:Ignorable="d"
+        Title="WindError" Height="300" Width="300">
+    <Grid Background="#545759">
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            
+
+        <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="0">
+            <Label Foreground="#E53C2E" FontSize="18" FontWeight="Bold" FontStyle="Italic">Error:</Label>
+            <Label Foreground="#E53C2E" FontSize="18" FontWeight="Bold" x:Name="lblNumber" Loaded="lblNumber_Loaded"></Label>
+        </StackPanel>
+        <StackPanel Margin="5" Grid.Row="1">
+            <ListBox x:Name="lstError" Background="#009383" Foreground="Red" Loaded="lstError_Loaded" 
+                     ScrollViewer.VerticalScrollBarVisibility="Visible"
+                     Height="200"
+                     ToolTip="These dates do not match the input format.">
+            </ListBox>
+        </StackPanel>
+
+    </Grid>
+</Window>

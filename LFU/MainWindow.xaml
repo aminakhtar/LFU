@@ -1,0 +1,53 @@
+﻿<Window 
+        x:Class="LFU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Loadfile Utility" 
+        Height="500" Width="1000" 
+        Loaded="Window_Loaded"
+        Background="#545759"
+        Closing="Window_Closing"
+        Icon="Aha-Soft-Agriculture-Cow-history.ico"
+        >
+    
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" ></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <!-- Global controls section -->
+        <DockPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Margin="0,10,0,10" ToolTip="You may drag and drop a loadfile into this panel"
+                   Drop="File_Drop" 
+                   PreviewDragEnter="File_PreviewDragEnter" 
+                   PreviewDragOver="File_PreviewDragOver" 
+                   Background="#648B1A"
+                   AllowDrop="True">
+            
+            <Button x:Name="btnOpen" Click="btnOpen_Click" Margin="10,0,5,0" DockPanel.Dock="Left" ToolTip="Open a loadfile">Open</Button>
+            <Button x:Name="btnSqlConsole" Margin="5,0,5,0" IsEnabled="False" Click="btnSqlConsole_Click" DockPanel.Dock="Left" ToolTip="Open the SQLite console">SQL Console</Button>
+            <Button x:Name="btnPlatformConnect" Margin="5,0,5,0" IsEnabled="True" Click="btnPlatformConnect_Click" DockPanel.Dock="Left" ToolTip="Create a connection to a processing platform database">Platform Connect</Button>
+            <!-- keep this markup as-is to keep the buttons in order -->
+            <Button x:Name="btnAbout" Margin="5,0,10,0" IsEnabled="True" DockPanel.Dock="Right" Click="btnAbout_Click" ToolTip="App version, documentation, configuration, etc.">About</Button>
+            <Button x:Name="btnMaint" Margin="5,0,5,0" IsEnabled="True" HorizontalAlignment="Right" Click="btnMaint_Click" ToolTip="Clean up orphaned databases, and &#xa;examine open database connections." >Maint</Button>
+            
+        </DockPanel>
+
+        <!-- Loadfile pages in tabcontrolMain -->
+        <DockPanel Grid.Row="1" Grid.Column="0" Margin="10,0,10,0">
+            <TabControl x:Name="tabcontrolMain" DockPanel.Dock="Top" BorderThickness="0" Background="#E0E0E0" Padding="0"/>
+        </DockPanel>
+        
+        <!-- Statusbar section -->
+        <StatusBar Grid.Row="2" Grid.Column="0" x:Name="MyStatusBar" Background="Transparent" Height="30" Margin="0,0,0,0">
+            <TextBlock Name="tblStatus" Margin="5,5,10,0" VerticalAlignment="Top" Foreground="White"/>
+        </StatusBar>
+
+    </Grid>
+</Window>
+
