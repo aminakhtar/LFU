@@ -5,4 +5,4 @@ Please review the LFU.docx in the Doc folder for further instruction regarding h
 
 If you don't have a CSV or DAT file handy, you can find one in the Doc folder.
 
-This project does not need any extra packages. You can open up the application in any version of Visual Studio and press the Start button.
+You can open up the application in any version of Visual Studio and press the Start button.
